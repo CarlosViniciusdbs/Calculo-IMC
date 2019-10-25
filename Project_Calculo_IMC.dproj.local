@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/17 21:52:27.000.254,=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/10 08:57:37.000.916,=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/10 09:13:18.000.365,C:\Users\carlo\OneDrive\Embarcadero\Studio\Projects\Calculo IMC\Unit_Principal.dfm=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/10 09:13:18.000.365,C:\Users\carlo\OneDrive\Embarcadero\Studio\Projects\Calculo IMC\Unit_Principal.pas=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/10 09:13:34.000.304,C:\Users\carlo\OneDrive\Embarcadero\Studio\Projects\Calculo IMC\Project_Calculo_IMC.dproj=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/10 09:37:45.000.874,=C:\Users\carlo\OneDrive\Embarcadero\Studio\Projects\Calculo IMC\Unit1.pas</Transaction>
+    <Transaction>2019/08/10 09:47:29.000.293,C:\Users\carlo\OneDrive\Embarcadero\Studio\Projects\Calculo IMC\UnitIMC.pas=C:\Users\carlo\OneDrive\Embarcadero\Studio\Projects\Calculo IMC\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

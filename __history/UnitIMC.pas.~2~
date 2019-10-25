@@ -1,0 +1,16 @@
+unit UnitIMC;
+
+interface
+   type
+    TCalculadora_IMC = class(TObject)
+    Peso: double;
+    Altura: double;
+    IMC: double;
+    Classifica :string;
+    function Calcular_IMC(Peso,Altura:double): Double;
+    function Retornar_IMC(IMC: double): string;
+    end;
+
+implementation
+
+end.
