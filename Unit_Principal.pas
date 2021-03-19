@@ -54,8 +54,8 @@ end;
 procedure TForm1.Informar_dados(sender: TObject);
 begin
   Calculadora_IMC:= TCalculadora_IMC.Create;
-  Calculadora_IMC.Peso := strtofloat(Edit1.Text);
-  Calculadora_IMC.Altura := StrToFloat(Edit2.Text);
+  Calculadora_IMC.Peso := StrToFloatDef(Edit1.Text,0);
+  Calculadora_IMC.Altura := StrToFloatDef(Edit2.Text,1);
 end;
 
 procedure TForm1.SB_Calcular_IMCClick(Sender: TObject);
